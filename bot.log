@@ -1,0 +1,31 @@
+[2025-06-24T14:26:25.955Z] [INFO] Started refreshing application (/) commands.
+[2025-06-24T14:26:25.961Z] [INFO] Logged in as Verification#7792
+[2025-06-24T14:26:26.785Z] [INFO] Successfully reloaded application (/) commands.
+[2025-06-24T14:27:12.179Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894?is_from_webapp=1&sender_device=pc
+[2025-06-24T14:27:33.451Z] [INFO] Started refreshing application (/) commands.
+[2025-06-24T14:27:33.457Z] [INFO] Logged in as Verification#7792
+[2025-06-24T14:27:34.162Z] [INFO] Successfully reloaded application (/) commands.
+[2025-06-24T14:27:46.804Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894
+[2025-06-24T14:28:29.454Z] [INFO] Started refreshing application (/) commands.
+[2025-06-24T14:28:29.460Z] [INFO] Logged in as Verification#7792
+[2025-06-24T14:28:30.278Z] [INFO] Successfully reloaded application (/) commands.
+[2025-06-24T14:28:36.303Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894
+[2025-06-24T14:34:43.033Z] [INFO] Started refreshing application (/) commands.
+[2025-06-24T14:34:43.038Z] [INFO] Logged in as Verification#7792
+[2025-06-24T14:34:43.748Z] [INFO] Successfully reloaded application (/) commands.
+[2025-06-24T14:34:53.617Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894
+[2025-06-24T14:34:53.948Z] [ERROR] TikTok download error: AggregateError
+[2025-06-24T14:35:25.184Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894
+[2025-06-24T14:35:25.462Z] [ERROR] TikTok download error: AggregateError
+[2025-06-24T14:37:38.324Z] [INFO] Started refreshing application (/) commands.
+[2025-06-24T14:37:38.330Z] [INFO] Logged in as Verification#7792
+[2025-06-24T14:37:39.137Z] [INFO] Successfully reloaded application (/) commands.
+[2025-06-24T14:37:41.233Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894
+[2025-06-24T14:38:38.324Z] [INFO] /youtube command by n05y: https://www.youtube.com/watch?v=rDCFnRjcvYY&t=304s
+[2025-06-24T14:38:39.890Z] [ERROR] YouTube download error: Error: Could not extract functions
+[2025-06-24T14:39:23.266Z] [INFO] Started refreshing application (/) commands.
+[2025-06-24T14:39:23.271Z] [INFO] Logged in as Verification#7792
+[2025-06-24T14:39:24.020Z] [INFO] Successfully reloaded application (/) commands.
+[2025-06-24T14:39:28.699Z] [INFO] /youtube command by n05y: https://www.youtube.com/watch?v=rDCFnRjcvYY&t=304s
+[2025-06-24T14:39:30.286Z] [ERROR] YouTube download error: Error: Could not extract functions
+[2025-06-24T14:48:15.500Z] [INFO] /tiktok command by n05y: https://www.tiktok.com/@sarkar_writes6/video/7516156560167406894
